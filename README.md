@@ -11,4 +11,6 @@ Unfortunately Android things is being deprecated by Google in January 2022, whic
 The Rainbow HAT for RaspberryPi  has multiple sensors, inputs and displays to explore the Android Things OS and commands. 
 It can be used as a weather station, a clock, a timer or stopwatch, a mood light, or endless other things.This add-on board features displays, sensors, sound, and lots of LEDs. 
 It's the perfect introduction to developing Android Things applications on the Raspberry Pi.
+
+
 ![](https://github.com/darraghmerrick/Android-Things-Rainbow-Hat/blob/main/RainbowHat.png)
